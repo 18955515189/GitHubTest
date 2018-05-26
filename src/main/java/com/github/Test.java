@@ -5,8 +5,8 @@ package com.github;
  */
 public class Test {
 
-    public void main(String[] args){
+    public static void main(String[] args){
         System.out.println( "试一试" );
-    }
+}
 
 }
